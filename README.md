@@ -1,4 +1,4 @@
-#Developer's Portfolio 🌐
+#Developer's Portfolio 🌐#
 Wecome to my digital portfolio where I showcase my skills, projects, and experiences in various web technologies such as HTML, CSS, JavaScript. 
 
 ##About me 
